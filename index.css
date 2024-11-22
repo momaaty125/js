@@ -1,0 +1,11 @@
+
+.cv{
+    margin-top:200px;
+    text-align: center;
+}
+.cv button{
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
